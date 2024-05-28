@@ -1,2 +1,0 @@
-# alacritty-config
-`.config`: Alacritty
